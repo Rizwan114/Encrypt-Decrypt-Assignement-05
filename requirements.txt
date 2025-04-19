@@ -1,2 +1,0 @@
-streamlit
-cryptography==36.0.2
