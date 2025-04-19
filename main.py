@@ -4,6 +4,8 @@ import hashlib
 import os
 from cryptography.fernet import Fernet
 
+# Securely generate and store a key for encryption
+
 KEY_FILE = "simple_secret.key"
 
 def load_key():
